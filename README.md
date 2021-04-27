@@ -39,3 +39,8 @@ You will be prompted to play your move by providing coordinates
 You can enter any coordinate from a0 to c2.
 
 Invalid inputs or already occupied squares will not be accepted.
+
+## Unit tests
+You can run the unit tests with maven:
+
+    mvn test
