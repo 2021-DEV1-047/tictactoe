@@ -21,6 +21,8 @@ Compile and run this project using maven:
 
     mvn spring-boot:run -q
 
+It will take a few seconds to start up
+
 ## Playing the game
 
 You will be prompted to play your move by providing coordinates
